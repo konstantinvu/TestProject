@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author vu
- *
- */
-module TestProject {
-}
